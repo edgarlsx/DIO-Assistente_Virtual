@@ -33,7 +33,7 @@ Desenvolver um sistema de assistência virtual capaz de:
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/assistente-virtual-python.git
+git clone https://github.com/edgarlsx/DIO-Assistente_Virtual.git
 
 cd assistente-virtual-python
 
